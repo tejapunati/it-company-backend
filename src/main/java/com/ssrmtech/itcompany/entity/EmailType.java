@@ -1,0 +1,5 @@
+package com.ssrmtech.itcompany.entity;
+
+public enum EmailType {
+    USER_APPROVED, USER_REJECTED, TIMESHEET_APPROVED, TIMESHEET_REJECTED, ADMIN_APPROVED, TIMESHEET_SUBMITTED
+}
